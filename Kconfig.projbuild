@@ -1,0 +1,9 @@
+menu "ESP_AI_THINKER_V2_2_BOARD"
+
+config USE_ESP_AI_THINKER_V2_2_BOARD
+	bool "Use this custom board?"
+	help
+	  If this is not ticked the ESP_AI_THINKER_V2_2_BOARD won't be used.
+
+endmenu
+
